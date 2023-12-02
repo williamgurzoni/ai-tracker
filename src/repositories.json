@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "updatedAt": "2023-12-02T05:30:30.630Z",
+    "name": "AutoGPT",
+    "type": "agent",
+    "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+    "launchDate": "2023-03-16T09:21:07.000Z",
+    "websiteUrl": "https://agpt.co",
+    "repoUrl": "https://github.com/Significant-Gravitas/AutoGPT",
+    "license": "MIT License",
+    "stars": 154151
+  },
+  {
+    "id": 2,
+    "updatedAt": "2023-12-02T05:30:31.032Z",
+    "name": "Fooocus",
+    "type": "image generation",
+    "summary": "Focus on prompting and generating",
+    "launchDate": "2023-08-09T18:43:40.000Z",
+    "websiteUrl": "",
+    "repoUrl": "https://github.com/lllyasviel/Fooocus",
+    "license": "GNU General Public License v3.0",
+    "stars": 20877
+  },
+  {
+    "id": 3,
+    "updatedAt": "2023-12-02T05:30:31.420Z",
+    "name": "LocalAI",
+    "type": "self-host llm",
+    "summary": ":robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs ggml, gguf, GPTQ, onnx, TF compatible models: llama, llama2, rwkv, whisper, vicuna, koala, cerebras, falcon, dolly, starcoder, and many others",
+    "launchDate": "2023-03-18T22:58:02.000Z",
+    "websiteUrl": "https://localai.io",
+    "repoUrl": "https://github.com/mudler/LocalAI",
+    "license": "MIT License",
+    "stars": 13813
+  },
+  {
+    "id": 4,
+    "updatedAt": "2023-12-02T05:30:31.922Z",
+    "name": "autogen",
+    "type": "agent",
+    "summary": "Enable Next-Gen Large Language Model Applications. Join our Discord: https://discord.gg/pAbnFJrkgZ",
+    "launchDate": "2023-08-18T11:43:45.000Z",
+    "websiteUrl": "https://microsoft.github.io/autogen/",
+    "repoUrl": "https://github.com/microsoft/autogen",
+    "license": "Creative Commons Attribution 4.0 International",
+    "stars": 17446
+  },
+  {
+    "id": 5,
+    "updatedAt": "2023-12-02T05:30:32.374Z",
+    "name": "llmware",
+    "type": "self-hosted llm",
+    "summary": "Providing enterprise-grade LLM-based development framework, tools, and fine-tuned models.",
+    "launchDate": "2023-09-29T15:19:06.000Z",
+    "websiteUrl": "https://pypi.org/project/llmware/",
+    "repoUrl": "https://github.com/llmware-ai/llmware",
+    "license": "Apache License 2.0",
+    "stars": 501
+  },
+  {
+    "id": 6,
+    "updatedAt": "2023-12-02T05:30:32.781Z",
+    "name": "krita-ai-diffusion",
+    "type": "Interface for image generation",
+    "summary": "Streamlined interface for generating images with AI in Krita. Inpaint and outpaint with optional text prompt, no tweaking required.",
+    "launchDate": "2023-09-01T22:52:13.000Z",
+    "websiteUrl": "",
+    "repoUrl": "https://github.com/Acly/krita-ai-diffusion",
+    "license": "GNU General Public License v3.0",
+    "stars": 2592
+  }
+]
